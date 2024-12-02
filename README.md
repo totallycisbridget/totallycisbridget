@@ -8,8 +8,8 @@ a tad **gay**
 
 <summary>About me</summary> 
 Comp Sci undergrad at University of South Wales
-Musician, primarily guitar leaning into synth
-Gundam Modeller
+<br/>Musician, primarily guitar leaning into synth
+<br/>Gundam Modeller
 </details>
 
 <details>
