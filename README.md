@@ -1,18 +1,29 @@
-## this is a  test
-
-<p>
-    i am still testing
-</p>
+## Programming Musician
 
 <h2>
-    things i do
+    About me:
+    <p>
+    code
+    break
+    </p>
 </h2>    
 <h2>
-    code
+    What I am doing:
+    <p>
+        VST Plugins
+    </p>
 </h2>
 
 <h2>
-    music
+    Skills:
+</h2>
+
+<h2>
+    Hobbies:
+    <p>
+        Music
+        
+    </p>
 </h2>
 
 
