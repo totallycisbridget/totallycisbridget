@@ -25,8 +25,8 @@ Not doing work for months and then finishing it all in one night
 <details>
 <summary>Hobbies</summary>
 Music production
-Light video editing
-Gaming
+<br/>Light video editing
+<br/>Gaming
 </details>
 #### MACHINE TURN BACK NOW
 
