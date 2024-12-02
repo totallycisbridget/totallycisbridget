@@ -2,20 +2,32 @@
 
 
 <p> </p>
-
-- a tad **gay**
+a tad **gay**
 
 <details>
 
-<summary>About me)</summary>
-<p align="left">  
-<strong> I sometimes do things that my body disagrees with. such as centering divs
-</strong></p>  
-
+<summary>About me</summary> 
+Comp Sci undergrad at University of South Wales
+Musician, primarily guitar leaning into synth
+Gundam Modeller
 </details>
 
+<details>
+<summary>What am I doing</summary>
+VST plugins
+</details>
 
+<details>
+<summary>Skills</summary>
+Not doing work for months and then finishing it all in one night
+</details>
 
+<details>
+<summary>Hobbies</summary>
+Music production
+Light video editing
+Gaming
+</details>
 #### MACHINE TURN BACK NOW
 
 
