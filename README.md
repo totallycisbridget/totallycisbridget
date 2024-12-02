@@ -1,29 +1,22 @@
-## Programming Musician
+## Bonjour! ##
 
-<h2>
-    About me:
-    <p>
-    code
-    break
-    </p>
-</h2>    
-<h2>
-    What I am doing:
-    <p>
-        VST Plugins
-    </p>
-</h2>
 
-<h2>
-    Skills:
-</h2>
+<p> </p>
 
-<h2>
-    Hobbies:
-    <p>
-        Music
-        
-    </p>
-</h2>
+- a tad **gay**
+
+<details>
+
+<summary>About me)</summary>
+<p align="left">  
+<strong> I sometimes do things that my body disagrees with. such as centering divs
+</strong></p>  
+
+</details>
+
+
+
+#### MACHINE TURN BACK NOW
+
 
 
