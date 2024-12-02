@@ -1,8 +1,6 @@
 ## Bonjour! ##
 
-
-<p> </p>
-a tad **gay**
+a tad gay
 
 <details>
 
