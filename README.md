@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @totallycisbridget
-- I am NOT helping the stereotypes
-- thigh highs go brrt :3
+- Bonjour, Holla, Hello
+- Musician AND 'Programmer'
 - she/her
 
 <!---
