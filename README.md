@@ -1,7 +1,7 @@
 
 
 # Pacific Rim never got a sequel and the anime wasn't bad but just very rushed
-
+![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/zaku-dance.gif)
 <details>
 <summary>I’m currently working on</summary>
 VST Plugin
@@ -12,16 +12,16 @@ VST Plugin
 C++, C#
 </details>
 
-<details>
+<details> 
 <summary>Ask me about</summary>
 gundam. DO IT. I DARE YOU
-![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gif)
 </details>
+![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gif)
 
 <details>
 <summary>How to reach me </summary>
 Please don't
-![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/zaku-dance.gif)
+
 </details>
 
 <details>
