@@ -1,26 +1,26 @@
 <details>
 <summary>I’m currently working on</summary>
-**VST Plugin**
+VST Plugin
 </details>
 
 <details>
 <summary>I’m currently learning </summary>
-**C++, C#**
+C++, C#
 </details>
 
 <details>
 <summary>Ask me about</summary>
-**gundam. DO IT. I DARE YOU**
+gundam. DO IT. I DARE YOU
 </details>
 
 <details>
 <summary>How to reach me </summary>
-**I'd rather you didn't**
+I'd rather you didn't
 </details>
 
 <details>
 <summary>Fun fact </summary>
-**Just a tad gay**
+Just a tad gay
 </details>
 
 
