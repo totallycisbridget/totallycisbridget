@@ -16,6 +16,7 @@ C++, C#
 <summary>Ask me about</summary>
 gundam. DO IT. I DARE YOU
 </details>
+
 ![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gif)
 
 <details>
