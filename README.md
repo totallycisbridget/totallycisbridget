@@ -1,4 +1,4 @@
-![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/zaku-dance.gif)
+
 
 # Pacific Rim never got a sequel and the anime wasn't bad but just very rushed
 
@@ -15,12 +15,13 @@ C++, C#
 <details>
 <summary>Ask me about</summary>
 gundam. DO IT. I DARE YOU
-
+![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gif)
 </details>
 
 <details>
 <summary>How to reach me </summary>
 Please don't
+![hippo](https://github.com/totallycisbridget/totallycisbridget/blob/main/zaku-dance.gif)
 </details>
 
 <details>
