@@ -1,4 +1,7 @@
-<div class="tenor-gif-embed" data-postid="27259519" data-share-method="host" data-aspect-ratio="1.32231" data-width="100%"><a href="https://tenor.com/view/bocchi-the-rock-bocchi-my-honest-reaction-btr-gif-27259519">Bocchi The Rock Bocchi GIF</a>from <a href="https://tenor.com/search/bocchi+the+rock-gifs">Bocchi The Rock GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gifhttps://github.com/totallycisbridget/totallycisbridget/blob/main/zaku-dance.gif)
+
+# Pacific Rim never got a sequel and the anime wasn't bad but just very rushed
+
 <details>
 <summary>I’m currently working on</summary>
 VST Plugin
@@ -12,6 +15,7 @@ C++, C#
 <details>
 <summary>Ask me about</summary>
 gundam. DO IT. I DARE YOU
+![](https://github.com/totallycisbridget/totallycisbridget/blob/main/amuro-ray-amuro.gif)
 </details>
 
 <details>
