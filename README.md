@@ -15,7 +15,7 @@ gundam. DO IT. I DARE YOU
 
 <details>
 <summary>How to reach me </summary>
-I'd rather you didn't
+Please don't
 </details>
 
 <details>
@@ -23,6 +23,15 @@ I'd rather you didn't
 Just a tad gay
 </details>
 
+<details>
+<summary>About me </summary>
+Comp Sci student and musician. I will be working on various VST after I can be bothered to record all of the samples I need to make them
+</details>
+
+<details>
+<summmary>Hobbies</summary>
+Acoustic, Electric and bass guitars, some amount of keyboad/piano and soon to be getting into synth stuff
+</details>
 
 <p align="left">
 </p>
